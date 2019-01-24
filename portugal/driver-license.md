@@ -15,9 +15,9 @@ Aproveita e faça também do teu agregado familiar (esposa e filhos) :)
 
 Marque uma consulta médica para conseguir o atestado de saúde (igual aquele exame que se faz no Brasil pra saber se estás em condições de conduzir). Podes marcar isso no centro de saúde (demora mais, mas custa somente 5€) ou podes marcar em escolas de condução (bem mais rápido, mas custa 30€).
 
-#### 4. “Validação” da carta de condução brasileira
+#### 4. Declaração de autenticidade de CNH
 
-Conseguir a “validação” da tua carta de condução brasileira que basicamente é um atestado do consulado que diz que tua carteira de condução é verdadeira. Tens que ir ao consulado pra isso. O serviço pode ser [agendado pela internet](https://ec-lisboa.itamaraty.gov.br/) e tem o custo de 16.50€.
+Conseguir a “Declaração de autenticidade de CNH” da tua carta de condução brasileira que basicamente é um atestado do consulado que diz que tua carteira de condução é verdadeira. Tens que ir ao consulado pra isso. O serviço pode ser [agendado pela internet](https://ec-lisboa.itamaraty.gov.br/) e tem o custo de 16.50€.
 
 ### Ação
 
