@@ -20,6 +20,8 @@ Marque uma consulta médica para conseguir o atestado de saúde (igual aquele ex
 
 Conseguir a “Declaração de autenticidade de CNH” da tua carta de condução brasileira que basicamente é um atestado do consulado que diz que tua carteira de condução é verdadeira. Tens que ir ao consulado pra isso. O serviço deve ser [agendado pela internet](https://ec-lisboa.itamaraty.gov.br/) e tem o custo de 16.50€.
 
+O consultado só aceita pagamento em dinheiro trocado ou cartão débito multibanco (não aceita MBWay).
+
 ### Ação
 
 - Dar entrada no processo no IMTT
