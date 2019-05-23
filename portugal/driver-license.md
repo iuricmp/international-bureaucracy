@@ -14,6 +14,7 @@ Aproveita e faça também do teu agregado familiar (esposa e filhos) :)
 #### 3. Atestado de saúde
 
 Marque uma consulta médica para conseguir o atestado de saúde (igual aquele exame que se faz no Brasil pra saber se estás em condições de conduzir). Podes marcar isso no centro de saúde (demora mais, mas custa somente 5€) ou podes marcar em escolas de condução (bem mais rápido, mas custa 30€).
+É necessário ter o Número de Utente para realizar a consulta médica em ambos os locais.
 
 #### 4. Declaração de autenticidade de CNH
 
