@@ -6,6 +6,8 @@
 
 #### 1. Título de Residência
 
+A data de solicitação da troca da carta de condução não deve ser superior a *90 dias úteis* contados a partir da data de emissão do Título de Residência.
+
 #### 2. Número de utente
 
 O número de utente é o teu cadastro no sistema de saúde em Portugal. Vá ao centro de saúde mais próximo da tua casa, leve seu título de residência, passaporte, NIF, segurança social (se já tiver), contrato de arrendamento e solicite o registro de número de utente. Há alguns centros de saúde que exigem pré-agendamento e/ou atestado de morada da junta de freguesia. Procure o mais próximo da sua casa.
