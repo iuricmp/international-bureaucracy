@@ -31,5 +31,6 @@ O consulado só aceita pagamento em dinheiro trocado ou cartão débito multiban
 Após reunir toda a documentação descrita nos Requisitos, vais ao IMTT pra solicitar a troca de carteira (precisas entregar a tua original lá, pois eles devolvem ao Brasil e te entregam um documento provisório que atesta que podes dirigir)
 
 *Dica: Utilize o [App do IMT](https://play.google.com/store/apps/details?id=pt.segsocial.iies.sigaapp.prod&hl=pt_PT) para gerar a senha de atendimento com antecedência
+
 **Atualização (14/08/2019): atualmente o App não está mais permitindo retirar senhas para o serviço de troca de carteira, porém ele é ainda bastante útil para verificar a quantidade de pessoas na fila antes de chegar no IMTT.
 
