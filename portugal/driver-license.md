@@ -22,7 +22,7 @@ Marque uma consulta médica para conseguir o atestado de saúde (igual aquele ex
 
 Conseguir a “Declaração de autenticidade de CNH” da tua carta de condução brasileira que basicamente é um atestado do consulado que diz que tua carteira de condução é verdadeira. Tens que ir ao consulado pra isso. O serviço deve ser [agendado pela internet](https://ec-lisboa.itamaraty.gov.br/) e tem o custo de 16.50€.
 
-O consultado só aceita pagamento em dinheiro trocado ou cartão débito multibanco (não aceita MBWay).
+O consulado só aceita pagamento em dinheiro trocado ou cartão débito multibanco (não aceita MBWay).
 
 ### Ação
 
@@ -31,3 +31,5 @@ O consultado só aceita pagamento em dinheiro trocado ou cartão débito multiba
 Após reunir toda a documentação descrita nos Requisitos, vais ao IMTT pra solicitar a troca de carteira (precisas entregar a tua original lá, pois eles devolvem ao Brasil e te entregam um documento provisório que atesta que podes dirigir)
 
 *Dica: Utilize o [App do IMT](https://play.google.com/store/apps/details?id=pt.segsocial.iies.sigaapp.prod&hl=pt_PT) para gerar a senha de atendimento com antecedência
+**Atualização (14/08/2019): atualmente o App não está mais permitindo retirar senhas para o serviço de troca de carteira, porém ele é ainda bastante útil para verificar a quantidade de pessoas na fila antes de chegar no IMTT.
+
